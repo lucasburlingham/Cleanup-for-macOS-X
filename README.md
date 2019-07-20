@@ -7,3 +7,6 @@ It requires an Administrator password.
   <li>Automator script to display dialogs and structure for the app.</li>
   <li>Applescript to run a command - the sudo purge command. This is the part which requires an adminsistrator password</li>
 </ul>
+
+<p>Author</p>
+<b>Simon Burlingham</b>
