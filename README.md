@@ -8,5 +8,9 @@ It requires an Administrator password.
   <li>Applescript to run a command - the sudo purge command. This is the part which requires an adminsistrator password</li>
 </ul>
 
+<h3>Download here:<h3>
+  <p><code>https://github.com/lucasburlingham/Cleanup-for-MacOS-X/blob/master/Cleanup.app.zip </code></p>
+   
+
 <p>Author</p>
 <b>Simon Burlingham</b>
