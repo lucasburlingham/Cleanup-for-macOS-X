@@ -1,5 +1,5 @@
-# Cleanup.app
-Is your Mac OS X device slow? Use this app to run a simple command to clear the RAM and the Disk Cashe on your device.
+Cleanup for macOS X Devices.
+Is your macOS X device slow? Use this app to run a simple command to clear the RAM and the Disk Cashe on your device.
 It requires an Administrator password.
 
 <h2>How it works:</h2>
