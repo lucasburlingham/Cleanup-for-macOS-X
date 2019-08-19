@@ -9,7 +9,7 @@ It requires an Administrator password.
 </ul>
 
 <h3>Download here:<h3>
-  <li><ul><code><a href="https://github.com/lucasburlingham/Cleanup-for-MacOS-X/raw/master/Cleanup.app.zip">Cleanup Zipfile (Extract and double click to open) </a></code><li>
+  <li><ul><code><a href="https://github.com/lucasburlingham/Cleanup-for-MacOS-X/raw/master/Cleanup.app.zip">Cleanup Zipfile (Extract and double click to open) </a></code></li>
     <ul><code><a href="https://github.com/lucasburlingham/Cleanup-for-Mac-OS-X/raw/master/cleanup-app-installer.pkg">Cleanup Installer (double click and follow instructions)</a>
       </code>
     </ul>
