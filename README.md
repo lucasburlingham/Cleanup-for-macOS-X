@@ -10,12 +10,20 @@ It requires an Administrator password.
 
 <h3>Download here:<h3>
   <ul>
-    <li><code><a href="https://github.com/lucasburlingham/Cleanup-for-MacOS-X/raw/master/Cleanup.app.zip">Cleanup Zipfile (Extract and double click to open) </a></code></ul>
-    <li><code><a href="https://github.com/lucasburlingham/Cleanup-for-Mac-OS-X/raw/master/cleanup-app-installer.pkg">Cleanup Installer (double click and follow instructions)</a>
+   
+   <li>
+  <code>
+    <a href="https://github.com/lucasburlingham/Cleanup-for-MacOS-X/raw/master/Cleanup.app.zip">Cleanup Zipfile (Extract and double click to open)</a>
+      </code>
+    </li>
+   
+   <li>
+  <code>
+    <a href="https://github.com/lucasburlingham/Cleanup-for-Mac-OS-X/raw/master/cleanup-app-installer.pkg">Cleanup Installer (double click and follow instructions)</a>
       </code>
     </li>
   </li>
    
-
+<br>
 <p>Author</p>
 <b>Simon Burlingham</b>
