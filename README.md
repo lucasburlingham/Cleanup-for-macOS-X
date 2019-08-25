@@ -22,7 +22,6 @@ It requires an Administrator password.
     <a href="https://github.com/lucasburlingham/Cleanup-for-Mac-OS-X/raw/master/cleanup-app-installer.pkg">Cleanup Installer (double click and follow instructions)</a>
       </code>
     </li>
-  </li>
    
 <br>
 <p>Author</p>
