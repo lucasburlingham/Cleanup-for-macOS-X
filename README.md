@@ -25,4 +25,4 @@ It requires an Administrator password.
    
 <br>
 <p>Author</p>
-<b>Simon Burlingham</b>
+<b>Simon Walker</b>
