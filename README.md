@@ -25,4 +25,4 @@ It requires an Administrator password. (NOTE: THIS IS HARD ON SYSTEM RESOURCES. 
    
 <br>
 <p>Author</p>
-<b>Simon Walker (<a href="instagram.com/simondanerd04">Simondanerd04 on Instagram</a>)</b>
+<b>Simon Walker (<a href="https://instagram.com/simondanerd04">Simondanerd04 on Instagram</a>)</b>
