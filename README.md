@@ -24,5 +24,7 @@ It requires an Administrator password. (NOTE: THIS IS HARD ON SYSTEM RESOURCES. 
     </li>
    
 <br>
+<footer>
 <p>Author</p>
-<b>Simon Walker (<a href="https://instagram.com/simondanerd04">Simondanerd04 on Instagram</a>)</b>
+<b>Simon Walker </b>(<a href="https://instagram.com/simondanerd04">Simondanerd04 on Instagram</a>)
+  </footer>
