@@ -1,4 +1,3 @@
-Cleanup for macOS X Devices.
 Is your macOS X device slow? Use this app to run a simple command to clear the RAM and the Disk Cache on your device.
 It requires an Administrator password. (NOTE: THIS IS HARD ON SYSTEM RESOURCES. USE WITH CAUTION AND BE PATIENT - PLEASE.)
 
